@@ -5,7 +5,7 @@ Automatizando consulta de CPF, através de BOT 🤖⚙️
 
 o site que usaremos para testar se o cpf existe ou não, se está regular. É este logo abaixo: 
       
-       https://www.situacao-cadastral.com/.
+       https://www.situacao-cadastral.com/
 
 Para que a consulta seja feita, tive que gerar um CPF com dados para pesquisa, utilizei um site
 para gerar um cpf. Logo abaixo o link do site aonde gerou o cpf.
