@@ -1,7 +1,3 @@
-//  o site que foi feito o testes é o 
-//  https://www.situacao-cadastral.com/
-
-
 const puppeteer = require('puppeteer');
 let cpfconsultado = '' // informe o cpf, com todos os caracteres
 
