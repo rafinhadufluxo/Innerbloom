@@ -24,7 +24,7 @@ para gerar um cpf. Logo abaixo o link do site aonde gerou o cpf.
 
 # A pergunta que irá fazer, como capturar os dados numa imagem?
 
-Pois bem, foi usado uma ma biblioteca Node que fornece uma API de alto nível para controlar o Chrome ou o Chromium por meio do protocolo DevTools, é chamada de Puppeteer. Tudo que você faz manualmente em seu navegador pode ser feito nele, podemos citar.
+Pois bem, foi usado uma  biblioteca Node que fornece uma API de alto nível para controlar o Chrome ou o Chromium por meio do protocolo DevTools, é chamada de Puppeteer. Tudo que você faz manualmente em seu navegador pode ser feito nele, podemos citar.
 
 * Navegar nas páginas, clicar em botões, preencher formulários e enviar automaticamente.
 * Tirar captura (screenshots) de tela das páginas.
